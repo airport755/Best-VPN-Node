@@ -9,9 +9,9 @@ Clash For Android 是一款由第三方开发的网络代理工具，支持SS、
 
 **安装后，请允许客户端有网络、VPN 权限，否则无法正常使用。**
 
+# 获取订阅
 _本文使用 [Free+ VPN机场](https://freeplus.top/) 作为示例，这也是个不错的新兴机场，支持免费试用，性价比高。_  
 
-# 获取订阅
 首先使用Android手机的浏览器打开[【Free+】](https://freeplus.top/)网站，并登录。
 ## 一键快速订阅
 在【仪表盘】中找到【Clash订阅】，点击【Clash订阅】。  
