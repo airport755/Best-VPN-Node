@@ -5,7 +5,7 @@ Clash For Windows 是一款由第三方开发的网络代理工具，支持SS、
 
 该软件为开源软件，需要的权限仅限本地使用，可通过我们提供的链接或 Github 上下载到此软件，由于该软件为开源软件，由众多技术人员群众监督，不会存在私自上传用户数据行为，请放心给予权限进行使用，请勿从以上2个渠道以外下载该软件，由于开源特性，可能存在被修改可能性而存在风险。
 # 软件下载与安装
-本站下载链接：[【 点击下载 】](https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe)  
+官方最新版下载链接：[【 点击下载 】](https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe)  
 
 下载后，双击下载文件进行安装即可。
 
