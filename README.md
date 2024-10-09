@@ -4,9 +4,9 @@
 
 **（强烈建议收藏本页，每月不定期更新，点击Star可随时看到此项目）**
 
-从未使用过VPN机场 >>>> 新手小白教程
+从未使用过VPN机场 >>>> [新手指南](https://github.com/airport755/Best-VPN-Node/blob/main/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97.MD)
 
-科学上网、VPN机场客户端集合：VPN机场客户端（Android/IOS/Windows/Mac/Linux）
+科学上网、VPN机场客户端集合：VPN机场客户端选择（Android/IOS/Windows/Mac/Linux）
 
 # 最重要的几点
 
