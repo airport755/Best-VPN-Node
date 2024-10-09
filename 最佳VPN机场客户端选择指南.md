@@ -11,12 +11,12 @@
 
 ### Windows 用户
 - **Clash for Windows (CFW)** 是首选，支持多个协议，用户界面友好。
-  - [Shadowrocket 下载与使用教程](https://github.com/airport755/Best-VPN-Node/blob/main/clients/ClashForAndroid.md)  
+  - [Shadowrocket 下载与使用教程](https://github.com/airport755/Best-VPN-Node/blob/main/clients/ClashforWindows.md)  
 - **V2rayN** 专注于 V2Ray 协议，功能强大，广受用户欢迎。
 
 ### MacOS 用户
 - **ClashX** 适合苹果用户的轻量级选择。
-  - [Shadowrocket 下载与使用教程](https://github.com/airport755/Best-VPN-Node/blob/main/clients/ClashForAndroid.md)  
+  - [Shadowrocket 下载与使用教程](https://github.com/airport755/Best-VPN-Node/blob/main/clients/ClashX_Pro.md)  
 - **Surge for macOS**付费工具，功能强大，适合高级用户。
 
 ### 配置建议
