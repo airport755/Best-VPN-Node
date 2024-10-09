@@ -12,9 +12,8 @@ ClashX Pro 是一款由第三方开发的网络代理工具，支持SS、SSR、V
 
 下载后，双击下载文件进行安装即可。  
 
-_本文使用 [Free+ VPN机场](https://freeplus.top/) 作为示例，这也是个不错的新兴机场，支持免费试用，性价比高。_  
-
 # 获取订阅
+_本文使用 [Free+ VPN机场](https://freeplus.top/) 作为示例，这也是个不错的新兴机场，支持免费试用，性价比高。_  
 ## 一键快速订阅
 登录Free+网站，在仪表盘中找到【Clash订阅】
 ![](https://freeplus.top/theme/Aurora/static/img/imgs2/clashFW2.png)  
