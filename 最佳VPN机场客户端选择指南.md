@@ -18,3 +18,15 @@
 ### 配置建议
 - 建议选择支持 V2Ray、Trojan、Shadowsocks 的客户端以适应不同机场协议。
 
+# Clash删库停更-替代方案
+由于Clash的Github项目库删库后，多个分支也停止更新，虽然依然可以继续使用，但会逐渐缺少对新通信协议的支持。
+### Android 用户
+- **Clash Meta Android** 可以平滑替换Clash for Android。
+- **Surfboard** 也可用于替换Clash for Android，Surfboard 订阅兼容 iOS 端的 Surge 订阅格式。
+### Windows 用户
+- **Clash Verge** 可以平滑替换Clash for Windows (CFW)。
+### MacOS 用户
+- **Clash Verge** 可以平滑替换ClashX 及 Clash Pro。
+
+
+
