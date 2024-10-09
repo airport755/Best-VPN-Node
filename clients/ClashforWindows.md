@@ -22,7 +22,7 @@ Clash For Windows 是一款由第三方开发的网络代理工具，支持SS、
 首先确保没有开启Clash For Windows的系统代理
 ![](https://freeplus.top/theme/Aurora/static/img/imgs2/clashFW1.png)
 
-本文使用 [Free+ VPN机场](https://freeplus.top/) 作为示例，这也是个不错的新兴机场，性价比高。
+_本文使用 [Free+ VPN机场](https://freeplus.top/) 作为示例，这也是个不错的新兴机场，性价比高。_  
 登录Free+网站，在仪表盘中找到【Clash订阅】
 ![](https://freeplus.top/theme/Aurora/static/img/imgs2/clashFW2.png)
 
