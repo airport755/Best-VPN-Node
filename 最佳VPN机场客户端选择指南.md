@@ -29,20 +29,21 @@
 - **Clash Verge** 可以平滑替换ClashX 及 Clash Pro。
 
 # 最新最活跃的翻墙机场客户端整理
-软件	Windows	Mac	Linux	iOS	Android	Apple TV	上次更新
-Stash		✅		✅		✅	2024.06.18
-Surge		✅		✅		✅	2024.06.14
-Quantumult X		✅		✅		✅	2024.04.21
-Loon				✅		✅	2024.07.09
-Shadowrocket				✅		✅	2024.07.05
-sing-box	✅	✅	✅	✅	✅	✅	2024.06.09
-Clash Verge	✅	✅	✅				2024.07.15
-Clash Nyanpasu	✅	✅	✅				2024.04.09
-Mihomo Party	✅	✅	✅				2024.09.09
-Clash Meta Android					✅		2024.07.28
-FIClash	✅	✅	✅		✅		2024.08.02
-V2rayN	✅						2024.07.15
-V2rayU		✅					2024.07.29
-v2rayNG					✅		2024.07.30
+| 软件 | Windows | Mac | Linux | iOS | Android | Apple TV | 上次更新 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Stash](https://apps.apple.com/app/stash/id1596063349) |  | ✅ |  | ✅ |  | ✅ | 2024.06.18 |
+| [Surge](https://nssurge.com/) |  | ✅ |  | ✅ |  | ✅ | 2024.06.14 |
+| [Quantumult X](https://apps.apple.com/us/app/id1443988620) |  | ✅ |  | ✅ |  | ✅ | 2024.04.21 |
+| [Loon](https://loon0x00.github.io/LoonManual/) |  |  |  | ✅ |  | ✅ | 2024.07.09 |
+| [Shadowrocket](https://apps.apple.com/bo/app/shadowrocket/id932747118?l=en) |  |  |  | ✅ |  | ✅ | 2024.07.05 |
+| [sing-box](https://sing-box.sagernet.org/) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 2024.06.09 |
+| [Clash Verge](https://clashx.pro/clash-verge-official/) | ✅ | ✅ | ✅ |  |  |  | 2024.07.15 |
+| [Clash Nyanpasu](https://nyanpasu.elaina.moe/zh-CN/) | ✅ | ✅ | ✅ |  |  |  | 2024.04.09 |
+| [Mihomo Party](https://github.com/pompurin404/mihomo-party) | ✅ | ✅ | ✅ |  |  |  | 2024.09.09 |
+| [Clash Meta Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) |  |  |  |  | ✅ |  | 2024.07.28 |
+| [FIClash](https://github.com/chen08209/FlClash/blob/main/README_zh_CN.md) | ✅ | ✅ | ✅ |  | ✅ |  | 2024.08.02 |
+| [V2rayN](https://github.com/2dust/v2rayN/releases) | ✅ |  |  |  |  |  | 2024.07.15 |
+| [V2rayU](https://github.com/yanue/V2rayU/releases) |  | ✅ |  |  |  |  | 2024.07.29 |
+| [v2rayNG](https://github.com/2dust/v2rayNG/releases) |  |  |  |  | ✅ |  | 2024.07.30 |
 
 
