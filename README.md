@@ -28,7 +28,7 @@
 
 ## [Free+](https://freeplus.top/)
 
-新兴小众机场，**注册即可免费试用**，原生IP，倍率低，不限速，Netflix等流媒体解锁，**性价比高**，用户量少，适合访问Tiktok、Whatsapp等海外社交媒体，美国、新加坡等节点支持解锁ChatGPT等AI工具。  
+新兴小众机场，**注册即可免费试用，领取2折优惠券**，原生IP，倍率低，不限速，Netflix等流媒体解锁，**性价比高**，用户量少，适合访问Tiktok、Whatsapp等海外社交媒体，美国、新加坡等节点支持解锁ChatGPT等AI工具。  
 
 [Free+官网入口](https://freeplus.top/)
 
