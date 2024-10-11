@@ -8,7 +8,7 @@
 
 科学上网、VPN机场客户端集合>>>> [最佳VPN机场客户端选择指南（Android/IOS/Windows/Mac/Linux）](https://github.com/airport755/Best-VPN-Node/blob/main/%E6%9C%80%E4%BD%B3VPN%E6%9C%BA%E5%9C%BA%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%80%89%E6%8B%A9%E6%8C%87%E5%8D%97.md)
 
-穷的没办法，免费VPN机场白嫖：
+穷的没办法，免费VPN机场白嫖：[最新免费机场白嫖攻略](https://github.com/airport755/Best-VPN-Node/blob/main/%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E7%99%BD%E5%AB%96%E6%94%BB%E7%95%A5.md)
 
 # 最重要的几点
 
