@@ -61,3 +61,9 @@ Ok Cloud，一家 2022 年开业的中转机场，有定制客户端，支持 Wi
 2023 年成立的性价比机场，宣传是IEPL 专线节点，支持流媒体解锁，支持ChatGPT解锁，年付套餐优惠力度较大，年付有8折优惠。
 
 [FATCAT 肥猫云机场官网入口](https://ca02.fcvipaff.pro/)
+
+## [帕克云机场](https://js.parkcloud.cc/)
+
+较新的机场，可免费试用，中继节点，支持流媒体解锁，支持ChatGPT解锁，年付套餐优惠力度较大，年付有7折优惠。
+
+[FATCAT 帕克云机场官网入口](https://js.parkcloud.cc/)
