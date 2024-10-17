@@ -68,3 +68,9 @@ Ok Cloud，一家 2022 年开业的中转机场，有定制客户端，支持 Wi
 较新的机场，可免费试用，中继节点，支持流媒体解锁，支持ChatGPT解锁，年付套餐优惠力度较大，年付有7折优惠。
 
 [FATCAT 帕克云机场官网入口](https://js.parkcloud.cc/)
+
+## [AgentNEO](https://ageneo.co/)
+
+老牌机场，中继节点，支持流媒体解锁，性价比较低。
+
+[AgentNEO机场官网入口](https://ageneo.co/)
